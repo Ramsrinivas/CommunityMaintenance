@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Residents Assosiation of WhitefieldMudra</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string-array name="flat_Numbers">
+        <item>A101</item>
+        <item>A102</item>
+        <item>A103</item>
+        <item>A104</item>
+        <item>A201</item>
+        <item>A202</item>
+        <item>A203</item>
+        <item>A204</item>
+        <item>A301</item>
+        <item>A302</item>
+        <item>A303</item>
+        <item>A304</item>
+        <item>A401</item>
+        <item>A402</item>
+        <item>A403</item>
+        <item>A404</item>
+        <item>B101</item>
+        <item>B102</item>
+        <item>B103</item>
+        <item>B104</item>
+        <item>B201</item>
+        <item>B202</item>
+        <item>B203</item>
+        <item>B204</item>
+        <item>B301</item>
+        <item>B302</item>
+        <item>B303</item>
+        <item>B304</item>
+        <item>B401</item>
+        <item>B402</item>
+        <item>B403</item>
+        <item>C101</item>
+        <item>C102</item>
+        <item>C103</item>
+        <item>C104</item>
+        <item>C201</item>
+        <item>C202</item>
+        <item>C203</item>
+        <item>C204</item>
+        <item>C301</item>
+        <item>C302</item>
+        <item>C303</item>
+        <item>C304</item>
+        <item>C401</item>
+        <item>C402</item>
+        <item>C403</item>
+        <item>C404</item>
+        <item>D101</item>
+        <item>D102</item>
+        <item>D103</item>
+        <item>D104</item>
+        <item>D201</item>
+        <item>D202</item>
+        <item>D203</item>
+        <item>D204</item>
+        <item>D301</item>
+        <item>D302</item>
+        <item>D303</item>
+        <item>D304</item>
+        <item>D401</item>
+        <item>D402</item>
+        <item>D403</item>
+        <item>D404</item>
+    </string-array>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <item name="visible" type="id"></item>
+    <item name="masked" type="id"></item>
+    <string name="err_msg_paymentpurpose">Select Payment Purpose</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_paymentpaid">Enter Amount to be paid</string>
+    <string name="err_msg_flatNumber">Select FlatNumber</string>
+    <string name="err_msg_ResidentGroup">Select ResidentGroup</string>
+    <string name="err_msg_ResidentType">Select ResidentType</string>
+    <string name="err_msg_PhoneNumber">Enter Phone Number</string>
+</resources>
